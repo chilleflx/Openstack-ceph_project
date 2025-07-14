@@ -1,0 +1,6 @@
+.vagrant
+block1cinder.vdi
+block1ceph1.vdi
+block1ceph2.vdi
+block1ceph3.vdi
+init-runonce
